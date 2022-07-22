@@ -8,6 +8,7 @@ django-cache-url==3.4.2
 django-cors-headers==3.10.1
 djangorestframework==3.13.1
 environs==9.3.5
+gunicorn==20.1.0
 marshmallow==3.17.0
 mypy-extensions==0.4.3
 packaging==21.3
